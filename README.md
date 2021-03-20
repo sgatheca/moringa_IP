@@ -5,3 +5,4 @@ Business Success Criteria
 
 To get the cities that were most used for the three day
 To get the cities that were the most used during business and home hours
+Read the data report [HERE](https://docs.google.com/document/d/19IIeiUV6m0a3Qz-iJmGINTJi5T_kr8lQPe6TtBPQ0Bs/edit?usp=sharing)
